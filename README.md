@@ -1,6 +1,6 @@
 # telegram auto reply when user offline
 
 # Technical stack:
-    Pythoh
-    Telethon
-    Asyncio
+    -Python
+    -Telethon
+    -Asyncio
