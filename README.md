@@ -1,4 +1,4 @@
-# telegram auto reply when user offline
+# Telegram auto reply when user offline
 
 # Technical stack:
     -Python
