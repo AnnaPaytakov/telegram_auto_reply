@@ -22,7 +22,7 @@ MODE = os.getenv("MODE")
 WORK_START = os.getenv("WORK_START", "10:00")
 WORK_END = os.getenv("WORK_END", "19:00")
 
-REPLY_COOLDOWN_HOURS = int(os.getenv("REPLY_COOLDOWN_HOURS", "12"))
+REPLY_COOLDOWN_HOURS = int(os.getenv("REPLY_COOLDOWN_HOURS", "1"))
 
 IGNORE_USERS = set(u.strip() for u in os.getenv("IGNORE_USERS", "").split(",") if u.strip())
 
